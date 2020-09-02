@@ -1,0 +1,6 @@
+esto lo que hace calcular el tiempo de ejecucion que hace la funcion get
+lo que se hace es calcular la grafica tiempo vs lamda, que es el tiempo de ejecucion 
+que se demora en hacer get en promedio , como el tiempo no es exacto, yo calculo la desviacion estandar de este tiempo, y se que ese tiempo va a estar
+en cierta cota, se que el tiempo va a ocilar en esa cota
+hash 64 es mejor apara el primer punto pero hash 0 es mejor para el segundo punto pues la desviacion estandar es mas pequeña entonces el margen de error es menor y el tiempo de ejcucion que gasta es menos en promedio.
+
